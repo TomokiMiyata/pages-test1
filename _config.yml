@@ -293,3 +293,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: "cloud-quick-start-guide"
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
